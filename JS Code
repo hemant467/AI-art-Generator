@@ -1,4 +1,6 @@
-Java Script :
+Third, Create a JS file with the name of script.js and paste the code given below in your Javascript file. Remember, you’ve to create a file with .js extension.
+
+Java Script [JS ] : 
 
 class Transferer {
           constructor() {
