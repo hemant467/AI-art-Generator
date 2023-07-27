@@ -1,4 +1,6 @@
-CSS Code
+Second, Create a CSS file with the name of style.css and paste the code given below, in your CSS file. Remember, you’ve to create a file with .css extension.
+
+CSS Code :
 
 html {
           height: 100%;
