@@ -22,7 +22,7 @@ HTML Code :
 <span id="upload" class="material-icons"> cloud_upload </span>
 </div>
 
-<h1 style="color: #533014;">+</h1>
+<h1 style="color: #FFFF00;">+</h1>
 
 <div id="stylePicker">
 <div id="styleImg" class="wrapper">
@@ -50,7 +50,7 @@ x="0px" y="0px" viewBox="0 0 24 30" style="enable-background: new 0 0 50 50" xml
          <button id="generateArtButton">Generate new Art</button>
          </div>
 
-         <h1 style="color: #533014;">=</h1>
+         <h1 style="color: #FFFF00;">=</h1>
 
          <div class="wrapper" id="styledCanvas">
          <canvas></canvas>
