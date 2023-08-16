@@ -6,7 +6,7 @@ html {
           height: 100%;
         }
         body {
-          background-color: #ffe19f;
+          background-color: #40E0D0;
           width: 100%;
           height: 100%;
           margin: 0;
@@ -94,9 +94,9 @@ html {
           font-size: 20px;
           padding: 15px;
           cursor: pointer;
-          border: solid #533014 3px;
+          border: solid #FFFF00 3px;
           border-radius: 10px;
-          color: #533014;
+          color: #000000;
           background-color: transparent;
           margin-top: 20px;
           transition: opacity 0.2s ease;
