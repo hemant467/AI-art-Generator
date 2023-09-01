@@ -89,7 +89,7 @@ class Transferer {
             a.href = this.styledCanvas
               .toDataURL("image/png")
               .replace("image/png", "image/octet-stream");
-            a.download = "styled.png";
+            a.download = "📷 Design from Hemant Katta ❤️‍🔥.png";
             document.body.appendChild(a);
             a.click();
           }
